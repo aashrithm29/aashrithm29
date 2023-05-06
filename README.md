@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aashrithm29
+- 👋 Hi, I’m Aashrith Muppalla
 - 👀 I’m interested in ...Math
 - 🌱 I’m currently learning ...TensorFlow
 - 💞️ I’m looking to collaborate on ...Twitter
